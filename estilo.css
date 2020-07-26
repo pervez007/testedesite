@@ -1,0 +1,94 @@
+html, body{
+    margin: 0px;
+    }
+#imagem{
+    background-image: url(fundo.jpg);
+        height: 100%;
+        text-align: center;
+}
+    #id{
+        font-size: 23px;
+        margin: 0px;
+        padding-bottom: 20px;
+    }
+    a{
+        border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    padding: 10 20 10 20;
+    text-decoration: initial;
+    font-size: 20px;
+    }
+    h1{
+        padding-top: 100px;
+        line-height: 0.6;
+    }
+    div{
+        color: white;
+        text-align: center;
+    }
+    #papeis{
+        width: 51px;
+        text-align: center;
+        padding: 15px;
+        font-size: 14px;
+    
+    }
+    #projeto{
+        background-color: #f7f7f7;
+        text-align: center;
+    }
+    h3{
+        font-size: 30px;
+        text-align: center;
+    }
+    #textojunto{
+        margin-left: 300px;
+        margin-right: 300px;
+        text-align: center;
+    }
+    #cor{
+        background-color: #f7f7f7;
+        text-align: center;
+    }
+    h4{
+    font-size: 30px;
+    text-align: center;
+    }
+    #fotos{
+        margin: 0px;
+        font-size: 1000px;
+        text-align: center;
+    }
+    #estilonome{
+    font-size: 30px;
+    text-align: center;
+    }
+    #estilorua{
+    font-size: 14px;
+    text-align: center;
+    }
+    #selecao
+    {
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+    header{
+        background-color: black;
+        color: white;
+        height: 60px;
+    }
+    #logo{
+        width: 96px;
+        margin: 0px;
+    }
+#divdalogo{
+    size: 200px;
+    text-align: left;
+}
+#logomenu{
+    text-align: right;
+    padding-top: 150px;
+}
